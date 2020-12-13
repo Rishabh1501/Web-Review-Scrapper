@@ -5,4 +5,4 @@ reviews (upto 10 pages).
 This App makes use of Flask Framework and is also deployed on heroku.
 
 
-Check out this link to try the app:    https://flipkart-search.herokuapp.com/
+Check out this link to try the app:    https://flipkart-search.herokuapp.com/  (Currently Inactive, Contact me if you want to try it out)
